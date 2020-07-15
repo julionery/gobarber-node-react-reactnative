@@ -22,6 +22,10 @@ Já o prestador de serviço, através de um interface Web, consegue ter acesso a
     <img alt="Web" title="Web" src="https://github.com/julionery/docs/blob/master/GoBarber/gobarber-signup.gif?raw=true">
 </h3>  
 
+<h3 align="center">
+    <img alt="Mobile" title="Mobile" width="300px" src="https://github.com/julionery/docs/blob/master/GoBarber/gobarber-signup-mobile.gif?raw=true?">
+</h3>  
+
 ### :rocket: Tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [NodeJS](https://nodejs.org/en/)
