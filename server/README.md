@@ -24,6 +24,7 @@
 - [Prettier](https://prettier.io/) - Padrão de Código
 - [uuidv4](https://github.com/thenativeweb/uuidv4) - Gerador de ID
 - [date-fns](https://date-fns.org/) - Manipulação de data em Javascript
+- [TSyringe](https://github.com/microsoft/tsyringe) - Um contêiner de injeção de dependência leve para TypeScript
 
 ### :information_source: Como Usar
 
