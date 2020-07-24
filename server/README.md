@@ -25,7 +25,7 @@
 - [uuidv4](https://github.com/thenativeweb/uuidv4) - Gerador de ID
 - [date-fns](https://date-fns.org/) - Manipulação de data em Javascript
 - [TSyringe](https://github.com/microsoft/tsyringe) - Um contêiner de injeção de dependência leve para TypeScript
-- [Jest](https://jestjs.io/) - framework de testes e, JavaScript com foco na simplicidade
+- [Jest](https://jestjs.io/) - Framework para criação de testes em JavaScript com foco na simplicidade
 
 ### :information_source: Como Usar
 
