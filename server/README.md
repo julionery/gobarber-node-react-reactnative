@@ -1,3 +1,7 @@
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="250px" src="https://raw.githubusercontent.com/julionery/docs/12512ed22b35576b0e8e5b8d409f89fa3a50b7d8/GoBarber/logo.svg">
+</h3>
+
 <h1 align="center">Back-end GoBarber</h1>
 
 <p align="center">Back-end do Projeto GoBarber do Bootcamp GoStack da <a href="https://rocketseat.com.br/" target="_blank">Rockeseat.</a></p>

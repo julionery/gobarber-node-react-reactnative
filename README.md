@@ -26,6 +26,53 @@ Já o prestador de serviço, através de um interface Web, consegue ter acesso a
     <img alt="Mobile" title="Mobile" width="300px" src="https://github.com/julionery/docs/blob/master/GoBarber/gobarber-signup-mobile.gif?raw=true?">
 </h3>  
 
+## Funcionalidades:
+- **RF** - Requisitos Funcionais
+- **RNF** - Requisitos Não Funcionais
+- **RN** - Regras de Negócio
+
+- [x] Cadastro de usuário;
+  - [x] **RF** - O usuário deve poder cadastrar o seu nome, e-mail e senha;
+  - [x] **RN** - O cadastro de usuário não deve permitir dois usuários com o mesmo e-mail;
+  - [x] **RN** - A senha do usuário deve ser criptografada;
+- [x] Login;
+  - [x] **RF** - O usuário deve poder realizar o login;
+  - [x] **RN** - O usuário não pode acessar o sistema com um e-mail não cadastrado;
+  - [x] **RN** - O usuário não pode acessar o sistema com uma senha inválida;
+- [ ] Recuperação de senha;
+  - [ ] **RF** - O usuário deve poder recuperar sua senha informando o seu e-mail;
+  - [ ] **RF** - O usuário deve receber um e-mail com instruções de recuperação de senha;
+  - [ ] **RF** - O usuário deve poder resetar sua senha;
+  - [ ] **RNF** - Utilizar Mailtrap para testar envios em ambiente de dev;
+  - [ ] **RNF** - Utilizar Amazon SES para envios em produção;
+  - [ ] **RNF** - O envio de e-mails deve acontecer em segundo plano (background job);
+  - [ ] **RN** - O link enviado por email para resetar senha, deve expirar em 2h;
+  - [ ] **RN** - O usuário precisa confirmar a nova senha ao resetar sua senha;
+- [ ] Atualização do perfil;
+  - [ ] **RF** - O usuário deve poder atualizar o seu nome, email e senha;
+  - [ ] **RN** - O usuário não pode alterar seu email para um email já utilizado;
+  - [ ] **RN** - Para atualizar sua senha, o usuário deve informar a senha antiga;
+  - [ ] **RN** - Para atualizar sua senha, o usuário precisa confirmar a nova senha;
+- [ ] Painel do prestador;
+  - [ ] **RF** - O usuário deve poder listar seus agendamentos de um dia específico;
+  - [ ] **RF** - O prestador deve receber uma notificação sempre que houver um novo agendamento;
+  - [ ] **RF** - O prestador deve poder visualizar as notificações não lidas;
+  - [ ] **RNF** - Os agendamentos do prestador no dia devem ser armazenados em cache;
+  - [ ] **RNF** - As notificações do prestador devem ser armazenadas no MongoDB;
+  - [ ] **RNF** - As notificações do prestador devem ser enviadas em tempo-real utilizando Socket.io;
+  - [ ] **RN** - A notificação deve ter um status de lida ou não-lida para que o prestador possa controlar.
+- [ ] Agendamento de serviços;
+  - [ ] **RF** - O usuário deve poder listar todos prestadores de serviço cadastrados;
+  - [ ] **RF** - O usuário deve poder listar os dias de um mês com pelo menos um horário disponível de um prestador;
+  - [ ] **RF** - O usuário deve poder listar horários disponíveis em um dia específico de um prestador;
+  - [ ] **RF** - O usuário deve poder realizar um novo agendamento com um prestador;
+  - [ ] **RNF** - A listagem de prestadores deve ser armazenada em cache;
+  - [ ] **RN** - Cada agendamento deve durar 1h exatamente;
+  - [ ] **RN** - Os agendamentos devem estar disponíveis entre 8h às 18h (Primeiro às 8h último às 17h);
+  - [ ] **RN** - O usuário não pode agendar em um horário já ocupado;
+  - [ ] **RN** - O usuário não pode agendar em um horário que já passou;
+  - [ ] **RN** - O usuário não pode agendar serviços consigo mesmo;
+
 ### :rocket: Tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [NodeJS](https://nodejs.org/en/)

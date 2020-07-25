@@ -2,6 +2,10 @@
 
 <p align="center">Web do Projeto GoBarber do Bootcamp GoStack da <a href="https://rocketseat.com.br/" target="_blank">Rockeseat.</a></p>
 
+<h3 align="center">
+    <img alt="Web" title="Web" src="https://github.com/julionery/docs/blob/master/GoBarber/gobarber-signup.gif?raw=true">
+</h3>
+
 ### :rocket: Tecnologias
 - [React](https://reactjs.org/ "ReactJS")
 - [Typescript](https://www.typescriptlang.org/)

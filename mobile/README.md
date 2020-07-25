@@ -2,6 +2,10 @@
 
 <p align="center">Mobile do Projeto GoBarber do Bootcamp GoStack da <a href="https://rocketseat.com.br/" target="_blank">Rockeseat.</a></p>
 
+<h3 align="center">
+    <img alt="Mobile" title="Mobile" width="300px" src="https://github.com/julionery/docs/blob/master/GoBarber/gobarber-signup-mobile.gif?raw=true?">
+</h3>  
+
 ### :rocket: Tecnologias
 - [React Native](https://reactnative.dev/ "React Native")
 - [Typescript](https://www.typescriptlang.org/)
