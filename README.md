@@ -49,10 +49,10 @@ Já o prestador de serviço, através de um interface Web, consegue ter acesso a
   - [x] **RN** - O link enviado por email para resetar senha, deve expirar em 2h;
   - [ ] **RN** - O usuário precisa confirmar a nova senha ao resetar sua senha;
 - [ ] Atualização do perfil;
-  - [ ] **RF** - O usuário deve poder atualizar o seu nome, email e senha;
-  - [ ] **RN** - O usuário não pode alterar seu email para um email já utilizado;
-  - [ ] **RN** - Para atualizar sua senha, o usuário deve informar a senha antiga;
-  - [ ] **RN** - Para atualizar sua senha, o usuário precisa confirmar a nova senha;
+  - [x] **RF** - O usuário deve poder atualizar o seu nome, email e senha;
+  - [x] **RN** - O usuário não pode alterar seu email para um email já utilizado;
+  - [x] **RN** - Para atualizar sua senha, o usuário deve informar a senha antiga;
+  - [x] **RN** - Para atualizar sua senha, o usuário precisa confirmar a nova senha;
 - [ ] Painel do prestador;
   - [ ] **RF** - O usuário deve poder listar seus agendamentos de um dia específico;
   - [ ] **RF** - O prestador deve receber uma notificação sempre que houver um novo agendamento;
