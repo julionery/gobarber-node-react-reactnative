@@ -30,6 +30,8 @@
 - [date-fns](https://date-fns.org/) - Manipulação de data em Javascript
 - [TSyringe](https://github.com/microsoft/tsyringe) - Um contêiner de injeção de dependência leve para TypeScript
 - [Jest](https://jestjs.io/) - Framework para criação de testes em JavaScript com foco na simplicidade
+- [Handlebars](https://handlebarsjs.com/) - Templates de emails
+- [Ethereal](https://ethereal.email/) - Fake SMTP service
 
 ### :information_source: Como Usar
 
