@@ -18,6 +18,7 @@
 - [Typescript](https://www.typescriptlang.org/)
 - [Docker](https://hub.docker.com/_/postgres)
 - [Postgress](https://www.postgresql.org/)
+- [Mongodb](https://www.mongodb.com/)
 - [TypeORM](https://typeorm.io/#/)
 - [JWT](https://jwt.io/)
 
