@@ -16,14 +16,16 @@
 ### :rocket: Tecnologias
 - [NodeJS](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)
-- [Docker](https://hub.docker.com/_/postgres)
-- [Postgress](https://www.postgresql.org/)
-- [Mongodb](https://www.mongodb.com/)
-- [TypeORM](https://typeorm.io/#/)
 - [JWT](https://jwt.io/)
 
+### :game_die: Bancos de dados:
+- [Postgress](https://www.postgresql.org/)
+- [Mongodb](https://www.mongodb.com/)
+
 ### :computer: Bibliotecas e ferramentas:
+- [Docker](https://hub.docker.com/_/postgres)
 - [Express](https://expressjs.com/) - Gerenciamento da API
+- [TypeORM](https://typeorm.io/#/)
 - [EditorConfig](https://editorconfig.org/) - Padrão de Código
 - [ESLint](https://eslint.org/) - Padrão de Código
 - [Prettier](https://prettier.io/) - Padrão de Código
@@ -33,6 +35,7 @@
 - [Jest](https://jestjs.io/) - Framework para criação de testes em JavaScript com foco na simplicidade
 - [Handlebars](https://handlebarsjs.com/) - Templates de emails
 - [Ethereal](https://ethereal.email/) - Fake SMTP service
+- [Celebrate](https://github.com/arb/celebrate) - Para as validações dos dados
 
 ### :information_source: Como Usar
 
@@ -42,10 +45,10 @@ No seu terminal digite os comandos:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/julionery/primeiro-projeto-node.git
+$ git clone https://github.com/julionery/gobarber-node-react-reactnative.git
 
 # Vá para a pasta do back-end
-$ cd conceitos-nodejs-react-reactnative/primeiro-projeto-node/
+$ cd conceitos-nodejs-react-reactnative/gobarber-node-react-reactnative/server
 
 # Instale as dependências
 $ yarn
