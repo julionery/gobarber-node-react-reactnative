@@ -36,6 +36,7 @@
 - [Handlebars](https://handlebarsjs.com/) - Templates de emails
 - [Ethereal](https://ethereal.email/) - Fake SMTP service
 - [Celebrate](https://github.com/arb/celebrate) - Para as validações dos dados
+- [Class Transformer](https://github.com/typestack/class-transformer) - Ocundando campos (password) nas classes, criando novos campos (avatar_url),...
 
 ### :information_source: Como Usar
 
