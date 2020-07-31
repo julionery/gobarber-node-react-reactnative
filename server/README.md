@@ -19,13 +19,15 @@
 - [JWT](https://jwt.io/)
 
 ### :game_die: Bancos de dados:
-- [Postgress](https://www.postgresql.org/)
-- [Mongodb](https://www.mongodb.com/)
+- [Postgress](https://www.postgresql.org/) - Dados
+- [Mongodb](https://www.mongodb.com/) - Notificações
+- [Redis](https://redis.io/) - Cache
 
 ### :computer: Bibliotecas e ferramentas:
 - [Docker](https://hub.docker.com/_/postgres)
 - [Express](https://expressjs.com/) - Gerenciamento da API
 - [TypeORM](https://typeorm.io/#/)
+- [Ioredis](https://github.com/luin/ioredis)
 - [EditorConfig](https://editorconfig.org/) - Padrão de Código
 - [ESLint](https://eslint.org/) - Padrão de Código
 - [Prettier](https://prettier.io/) - Padrão de Código
@@ -37,6 +39,7 @@
 - [Ethereal](https://ethereal.email/) - Fake SMTP service
 - [Celebrate](https://github.com/arb/celebrate) - Para as validações dos dados
 - [Class Transformer](https://github.com/typestack/class-transformer) - Ocundando campos (password) nas classes, criando novos campos (avatar_url),...
+- [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible#readme) - conta e limita o número de requisições por chave e protege contra DDoS e ataques de força bruta em qualquer escala.
 
 ### :information_source: Como Usar
 
