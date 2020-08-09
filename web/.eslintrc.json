@@ -39,6 +39,7 @@
       "no-unused-expressions": "off",
       "react/jsx-one-expression-per-line": "off",
       "camelcase": "off",
+      "import/no-duplicates": "off",
       "@typescript-eslint/explicit-function-return-type": [
         "error",
         {

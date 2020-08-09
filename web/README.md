@@ -21,6 +21,7 @@
 - [Unform](https://unform.dev/)
 - [Yup - Validation Fields](https://github.com/jquense/yup)
 - [React Spring - Animations](https://www.react-spring.io/)
+- [React Day Picker](https://react-day-picker.js.org/)
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
