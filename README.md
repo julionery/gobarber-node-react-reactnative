@@ -2,8 +2,6 @@
     <img alt="Logo" title="#logo" width="250px" src="https://raw.githubusercontent.com/julionery/docs/12512ed22b35576b0e8e5b8d409f89fa3a50b7d8/GoBarber/logo.svg">
 </h3>
 
-# Em desenvolvimento...
-
 ## :page_with_curl: Sobre:
 
 Este repositório contém um API REST em Node.js como back-end, uma aplicação em ReactJS como front-end e um app mobile em React Native, todos utilizando TypeScript.
