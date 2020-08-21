@@ -22,6 +22,8 @@
 - [Yup - Validation Fields](https://github.com/jquense/yup)
 - [React Spring - Animations](https://www.react-spring.io/)
 - [React Day Picker](https://react-day-picker.js.org/)
+- [Testing Library](https://testing-library.com/)
+- [React Hooks Testing Library](https://react-hooks-testing-library.com/)
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.

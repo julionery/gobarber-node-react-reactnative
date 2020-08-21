@@ -17,6 +17,7 @@
 - [Styled Components](https://styled-components.com/)
 - [React Navigation](https://reactnavigation.org/ "React Navigation")
 - [Axios](https://github.com/axios/axios "Axios")
+- [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
